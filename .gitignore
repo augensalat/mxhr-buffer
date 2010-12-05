@@ -1,0 +1,15 @@
+.*
+!.gitignore
+Makefile*
+!Makefile.PL
+META.*
+blib
+build
+cover_db
+inc
+pm_to_blib
+MANIFEST*
+!MANIFEST.SKIP
+*.bs
+t/tmp
+MXHR-Buffer*
